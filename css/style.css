@@ -1,0 +1,55 @@
+/* Reset */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* Body */
+
+body{
+    background:#fffafc;
+    font-family:Arial, Helvetica, sans-serif;
+    color:#444;
+    text-align:center;
+    padding:60px;
+}
+
+/* Main Heading */
+
+h1{
+    color:#d46a92;
+    font-size:55px;
+    margin-bottom:20px;
+}
+
+/* Horizontal Line */
+
+hr{
+    width:120px;
+    margin:25px auto;
+    border:2px solid #f4c2d7;
+}
+
+/* Sub Headings */
+
+h2{
+    color:#b84d76;
+    margin-top:35px;
+    margin-bottom:15px;
+}
+
+/* Paragraphs */
+
+p{
+    font-size:20px;
+    line-height:1.8;
+    margin-bottom:12px;
+}
+
+/* Hover Effect */
+
+h1:hover{
+    color:#ff69b4;
+    transition:.4s;
+}
